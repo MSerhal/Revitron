@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\2MegaPxel\Revitron\bin\Debug\chroma.sqlite3
+C:\Users\USER\Desktop\2MegaPxel\Revitron\bin\Debug\data_level0.bin
+C:\Users\USER\Desktop\2MegaPxel\Revitron\bin\Debug\run_rag_command.cs
+C:\Users\USER\Desktop\2MegaPxel\Revitron\bin\Debug\python\config.py
+C:\Users\USER\Desktop\2MegaPxel\Revitron\bin\Debug\python\generate_rag_prompt.py
+C:\Users\USER\Desktop\2MegaPxel\Revitron\bin\Debug\Revitron.dll
+C:\Users\USER\Desktop\2MegaPxel\Revitron\bin\Debug\Revitron.pdb
+C:\Users\USER\Desktop\2MegaPxel\Revitron\obj\Debug\Revitron.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\2MegaPxel\Revitron\obj\Debug\Revitron.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\2MegaPxel\Revitron\obj\Debug\Revitron.dll
+C:\Users\USER\Desktop\2MegaPxel\Revitron\obj\Debug\Revitron.pdb

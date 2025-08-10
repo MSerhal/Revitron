@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\2MegaPxel\\Revitron\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12084F94-11E3-4FDE-A068-EF2BD3544A71}|Revitron.csproj|c:\\users\\user\\desktop\\2megapxel\\revitron\\run_rag_command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12084F94-11E3-4FDE-A068-EF2BD3544A71}|Revitron.csproj|solutionrelative:run_rag_command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12084F94-11E3-4FDE-A068-EF2BD3544A71}|Revitron.csproj|c:\\users\\user\\desktop\\2megapxel\\revitron\\python\\generate_rag_prompt.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{12084F94-11E3-4FDE-A068-EF2BD3544A71}|Revitron.csproj|solutionrelative:python\\generate_rag_prompt.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12084F94-11E3-4FDE-A068-EF2BD3544A71}|Revitron.csproj|c:\\users\\user\\desktop\\2megapxel\\revitron\\promptwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12084F94-11E3-4FDE-A068-EF2BD3544A71}|Revitron.csproj|solutionrelative:promptwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12084F94-11E3-4FDE-A068-EF2BD3544A71}|Revitron.csproj|c:\\users\\user\\desktop\\2megapxel\\revitron\\python\\config.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{12084F94-11E3-4FDE-A068-EF2BD3544A71}|Revitron.csproj|solutionrelative:python\\config.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Revitron||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12084F94-11E3-4FDE-A068-EF2BD3544A71}|Revitron.csproj|c:\\users\\user\\desktop\\2megapxel\\revitron\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|1e78f8db-6c07-4d61-a18f-7514010abd56"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "generate_rag_prompt.py",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2MegaPxel\\Revitron\\python\\generate_rag_prompt.py",
+              "RelativeDocumentMoniker": "python\\generate_rag_prompt.py",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2MegaPxel\\Revitron\\python\\generate_rag_prompt.py",
+              "RelativeToolTip": "python\\generate_rag_prompt.py",
+              "ViewState": "AgIAANsAAAAAAAAAAAAiwAYBAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHfSURBVDhPpZCxaxNhGMZ/9zVJaUuDUlq1FBWLZBFTCXo4BFyU1qGKi4OkIHhkzF/g0KF00M2lR9YUdDDQQVAcJILoQUd1UNRmkhoRm8RL777v7nOoCZd4AcEH3uF5nvd73vd74X\u002BgtTai3LIsHeWDEEJct217a1DvwbIs7bpubFUqFW3b9naxWLwWfSOipAvHcfqqi0KhkMtms3cty1rsaomeG4FpmoMSANVqlXQ6nQMWgacMC4hOBchduEj\u002ByjKjScGh8SS1Wq3nxQZEN3j1eY/Vrfe8rTeQvsf89ARLS1cz5XIZ/uUGXxptQiVRUhJIybudXaZn52a7vbEBpmkyNb/A69YM9W8tDEJOTI2hpI\u002BSkvOZH2f13sNAB\u002B07sV9wHIdH9Unquz9RvoeUPtL3UFISKkky\u002BAT7HwTi6FpsgGma3N9\u002Bg5I\u002BKaFZyU8wOpJChwHnjiuE9wKCXyC/zsQGOI7DeELjtiUPbgky6Wd/HA3KBelC4AIpNfQGl88cQ0mfI5PugRhKkM2DUk0INYwtPI/dAGAlf4rbl06T6DyBVgeCABJzYPhwcm0V8ICNvwJKpVIf37h3IxSyKVAuBMDIYQAMw1jvaxwGrYNl3Xq5o79vat3Y3Nedj4\u002B11je7/m\u002BXOuyzFtDhUgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-07-08T08:01:29.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "config.py",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2MegaPxel\\Revitron\\python\\config.py",
+              "RelativeDocumentMoniker": "python\\config.py",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2MegaPxel\\Revitron\\python\\config.py",
+              "RelativeToolTip": "python\\config.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHfSURBVDhPpZCxaxNhGMZ/9zVJaUuDUlq1FBWLZBFTCXo4BFyU1qGKi4OkIHhkzF/g0KF00M2lR9YUdDDQQVAcJILoQUd1UNRmkhoRm8RL777v7nOoCZd4AcEH3uF5nvd73vd74X\u002BgtTai3LIsHeWDEEJct217a1DvwbIs7bpubFUqFW3b9naxWLwWfSOipAvHcfqqi0KhkMtms3cty1rsaomeG4FpmoMSANVqlXQ6nQMWgacMC4hOBchduEj\u002ByjKjScGh8SS1Wq3nxQZEN3j1eY/Vrfe8rTeQvsf89ARLS1cz5XIZ/uUGXxptQiVRUhJIybudXaZn52a7vbEBpmkyNb/A69YM9W8tDEJOTI2hpI\u002BSkvOZH2f13sNAB\u002B07sV9wHIdH9Unquz9RvoeUPtL3UFISKkky\u002BAT7HwTi6FpsgGma3N9\u002Bg5I\u002BKaFZyU8wOpJChwHnjiuE9wKCXyC/zsQGOI7DeELjtiUPbgky6Wd/HA3KBelC4AIpNfQGl88cQ0mfI5PugRhKkM2DUk0INYwtPI/dAGAlf4rbl06T6DyBVgeCABJzYPhwcm0V8ICNvwJKpVIf37h3IxSyKVAuBMDIYQAMw1jvaxwGrYNl3Xq5o79vat3Y3Nedj4\u002B11je7/m\u002BXOuyzFtDhUgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-07-08T07:46:41.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Revitron",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2MegaPxel\\Revitron\\Revitron.csproj",
+              "RelativeDocumentMoniker": "Revitron.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2MegaPxel\\Revitron\\Revitron.csproj",
+              "RelativeToolTip": "Revitron.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-08T06:19:18.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PromptWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2MegaPxel\\Revitron\\PromptWindow.cs",
+              "RelativeDocumentMoniker": "PromptWindow.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2MegaPxel\\Revitron\\PromptWindow.cs [Design]",
+              "RelativeToolTip": "PromptWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T05:58:55.886Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "run_rag_command.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2MegaPxel\\Revitron\\run_rag_command.cs",
+              "RelativeDocumentMoniker": "run_rag_command.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2MegaPxel\\Revitron\\run_rag_command.cs",
+              "RelativeToolTip": "run_rag_command.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAiwI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T05:54:06.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

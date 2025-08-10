@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>Revitron.dll</Assembly>
+    <AddInId>cbb6a5d6-4051-41e7-b6e2-11e36b26e6ad</AddInId>
+    <FullClassName>Revitron.RunRAGCommand</FullClassName>
+    <Text>Revitron</Text>
+    <Description>AI Assistant</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>MOH</VendorId>
+    <VendorDescription>Mohamad, AI-driven BIM automation</VendorDescription>
+  </AddIn>
+</RevitAddIns>
